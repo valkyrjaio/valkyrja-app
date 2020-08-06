@@ -15,7 +15,7 @@
     }
   ],
   "require"           : {
-    "php"               : ">=7.4",
+    "php"               : "^8.0",
     "valkyrja/valkyrja" : "^1.0.0",
     "monolog/monolog"   : "^2.1.0"
   },
@@ -45,7 +45,7 @@
   "minimum-stability" : "dev",
   "extra"             : {
     "branch-alias" : {
-      "dev-master" : "1.0-dev"
+      "dev-master" : "1.x-dev"
     }
   }
 }
